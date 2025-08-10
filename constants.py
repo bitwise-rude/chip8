@@ -1,0 +1,2 @@
+
+RESOLUTION = 20
